@@ -33,3 +33,5 @@ build/
 .vscode/
 
 ### ENV FIle ###
+/src/main/resources/.env
+/src/main/resources/.env.example
